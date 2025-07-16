@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Prajna Agrawal</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone🕹️&animation=fadeIn&type=waving&color=gradient&height=100&width=100"/>
+</p>
+
 
 - 🎓 BTech in Computer Science @ IIT Jodhpur (3rd year)
 - 🧮 Passionate about Software Development & ML
