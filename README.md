@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prajna Agrawal</h1>
-<h3 align="center">Third Year UnderGraduate Student at IIT Jodhpur</h3>
 
-
-- 🌱 I’m currently pursuing Computer Science at IITJ.
-
+- 🎓 BTech in Computer Science @ IIT Jodhpur (3rd year)
+- 🧮 Passionate about Software Development & ML
+- 💡 I enjoy solving complex mathematical and computational challenges
+- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/prajnaagrawal) or explore my repos below ⬇️
 - ⚡ Fun fact **Avid Rubik's Cube solver**
 
 <h3 align="left">Tech Stack:</h3>
