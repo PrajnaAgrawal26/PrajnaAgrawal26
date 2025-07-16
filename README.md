@@ -60,10 +60,12 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin: 4px;" />
         </a>
         <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express" width="40" height="40"
-            style="margin: 4px; background-color: white; padding: 2px; border-radius: 6px;" />
-        </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+       alt="express"
+       width="40"
+       height="40"
+       style="background-color: white; padding: 8px; border-radius: 8px;" />
+</a>
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
           <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="margin: 4px;" />
         </a>
