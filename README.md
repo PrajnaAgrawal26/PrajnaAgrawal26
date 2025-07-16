@@ -150,9 +150,7 @@
 <h3 align="left">Contribution & History:</h3>
 <p align="left">
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajnaagrawal26&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="prajnaagrawal26" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajnaagrawal26&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="prajnaagrawal26" /></p>
 
 ![Snake animation](https://PrajnaAgrawal26.github.io/PrajnaAgrawal26/github-contribution-grid-snake-dark.svg)
 
