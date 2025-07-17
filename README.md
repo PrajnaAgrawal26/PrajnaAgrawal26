@@ -159,5 +159,7 @@
 
 ![Snake animation](https://github.com/PrajnaAgrawal26/PrajnaAgrawal26/blob/output/github-contribution-grid-snake-dark.svg?raw=true&v=2)
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
