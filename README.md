@@ -7,7 +7,7 @@
 - 🧮 Passionate about Software Development & ML
 - 💡 I enjoy solving complex mathematical and computational challenges more so even through competitive programming.
 - 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/prajnaagrawal) or feel free to explore my repos below ⬇️
-- ✉️ Check out my [Portfolio](https://portfolio-prajna-agrawals-projects.vercel.app/)
+- ✉️ Check out my [Portfolio](https://portfolio-five-rosy-r66n9jo0ct.vercel.app/)
 - ⚡ Fun fact **Avid Rubik's Cube solver**
 
 <h3 align="left">Tech Stack:</h3>
