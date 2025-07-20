@@ -6,7 +6,7 @@
 - 🎓 BTech in Computer Science @ IIT Jodhpur (3rd year)
 - 🧮 Passionate about Software Development & ML
 - 💡 I enjoy solving complex mathematical and computational challenges more so even through competitive programming.
-- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/prajnaagrawal) or feel free to explore my repos below ⬇️
+- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/prajnaagrawal) or feel free to explore my repos below ⬇️.
 - ✉️ Check out my [Portfolio](https://portfolio-five-rosy-r66n9jo0ct.vercel.app/)
 - ⚡ Fun fact **Avid Rubik's Cube solver**
 
